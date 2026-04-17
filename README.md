@@ -1,3 +1,1 @@
-# aegis-core
-
-مشروع Aegis Core، نظام تداول ذكي يعتمد على 4 عقول مستقلة لتحديد إشارات السوق، ويتيح لك ضبط نسب جني الأرباح والخسارة." بعد ما تكتب الوصف، اضغط على "Commit changes" في الأسفل. ولو عاوز أي مساعدة في الصياغة أو في أي خطوة تانية، أنا جاهز تماماً.
+Aegis Core is an intelligent trading system that relies on 4 independent brains to identify market signals, and allows you to adjust profit and loss ratios.
